@@ -1,0 +1,2 @@
+# oneClick
+fix termux
